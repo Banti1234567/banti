@@ -6,5 +6,7 @@ and 2nd doing for checking adh  hr next line pl check new chnges
 push done
 <br> again checking ous
 
+"changes done as per new policy USA TELECOM COMPANY"
+
 
 
